@@ -15,11 +15,6 @@ int main(){
     scanf("%s", nome);
     printf("obrigado por me informar onde você mora\n");
 
-
+    
     return 0;
-
-
-
-
-
 }
